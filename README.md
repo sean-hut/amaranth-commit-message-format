@@ -74,6 +74,7 @@ These are the rules for contributing.
 
 - [git-flow Branching][git-flow]
 - [Fetch and Merge Before Committing][fetch-merge]
+- [Run Make][run-make]
 
 ### Committing
 
@@ -89,6 +90,7 @@ These are the rules for contributing.
 
 [git-flow]: <https://github.com/sean-hut/contributing-rules/blob/develop/rules/preparation-for-commits/git-flow-branching.md>
 [fetch-merge]: <https://github.com/sean-hut/contributing-rules/blob/develop/rules/preparation-for-commits/fetch-and-merge-before-committing.md>
+[run-make]: <https://github.com/sean-hut/contributing-rules/blob/develop/rules/preparation-for-commits/run-make.md>
 
 [small-commits]: <https://github.com/sean-hut/contributing-rules/blob/develop/rules/committing/small-commits.md>
 [sign-commits]: <https://github.com/sean-hut/contributing-rules/blob/develop/rules/committing/sign-and-signoff-commits.md>
