@@ -21,9 +21,9 @@ The commit message can have an optional body.
 The body explains what changed and the rational for why it changed.
 
 - The body can be multiple lines.
+- The body can not contain blank lines.
 - The body must use the imperative mood.  See [imperative mood](#imperative-mood).
 - The body lines must wrap at 72 characters.
-- The body can contain blank lines.
 - The body can contain bullet points that start with `-` or `*`.
 
 ## Footer
