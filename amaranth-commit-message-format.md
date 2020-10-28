@@ -1,5 +1,29 @@
 # Amaranth Commit Message Format
 
+## Commit Message Structure
+
+These are the valid commit message structures:
+
+- Summary Line
+    1. Summary line
+
+- Summary Line and Body
+    1. Summary line
+    1. One blank line
+    1. Body
+
+- Summary Line and Footer
+    1. Summary line
+    1. One blank line
+    1. Footer
+
+- Summary Line, Body and Footer
+    1. Summary line
+    1. One blank line
+    1. Body
+    1. One blank line
+    1. Footer
+
 ## ASCII
 
 The characters in the commit message must be [ASCII characters][ascii].
