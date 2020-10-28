@@ -32,6 +32,10 @@ The commit message can have an optional footer.
 
 The footer is for referring to issue IDs.
 
+- The footer can be multiple lines.
+- The footer can not contain blank lines.
+- Footer lines must start with `Resolves:` or `See also:`
+- Footer lines must have one or more issue IDs following each `Resolves:` or `See also:`
 
 Footer line examples:
 `Resolves: <issue-id>`
