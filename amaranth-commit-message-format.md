@@ -11,10 +11,6 @@ The summary line is the first line of the commit message.
 - The summary's first word after the category abbreviation must be lower case.
 - The summary must use the imperative mood.  See [imperative mood](#imperative-mood).
 
-## Separate the Summary and Body
-
-Separate the summary and the body with a blank line.
-
 ## Body
 
 The body explains what changed and the rational for why it changed.
@@ -23,10 +19,6 @@ The body explains what changed and the rational for why it changed.
 - The body lines must wrap at 72 characters.
 - The body can contain blank lines.
 - The body can contain bullet points that start with `-` or `*`.
-
-## Separate the Body and Footer
-
-Separate the body and footer with a blank line.
 
 ## Footer
 
