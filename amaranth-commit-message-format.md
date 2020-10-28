@@ -30,9 +30,9 @@ The body explains what changed and the rational for why it changed.
 
 The commit message can have an optional footer.
 
-The footer comes after the body.
+The footer is for referring to issue IDs.
 
-The footer is for referring to issue IDs for example:
+
 - Resolves: `<issue-id>`
 - See also: `<issue-id>`, `<issue-id>`
 
