@@ -1,42 +1,75 @@
 # Amaranth Commit Message Format
 
-## Summary
+## Commit Message Structure
+
+These are the valid commit message structures:
+
+- Summary Line
+    1. Summary line
+
+- Summary Line and Body
+    1. Summary line
+    1. One blank line
+    1. Body
+
+- Summary Line and Footer
+    1. Summary line
+    1. One blank line
+    1. Footer
+
+- Summary Line, Body and Footer
+    1. Summary line
+    1. One blank line
+    1. Body
+    1. One blank line
+    1. Footer
+
+## ASCII
+
+The characters in the commit message must be [ASCII characters][ascii].
+
+[ascii]: <https://en.wikipedia.org/wiki/ASCII#Character_set>
+
+## Summary Line
+
+A commit message must have a summary line.
 
 The summary line is the first line of the commit message.
 
-- A commit message must have a summary line.
+- The summary is one line.
+- The summary line can not be only a [category abbreviation](#category-abbreviation).
 - The summary must not be more than 50 characters.
 - The summary must not end with a period.
 - The summary must start with one of the [category abbreviation](#category-abbreviation) for example **`B`**.
 - The summary's first word after the category abbreviation must be lower case.
 - The summary must use the imperative mood.  See [imperative mood](#imperative-mood).
 
-## Separate the Summary and Body
-
-Separate the summary and the body with a blank line.
-
 ## Body
+
+The commit message can have an optional body.
 
 The body explains what changed and the rational for why it changed.
 
+- The body can be multiple lines.
+- The body can not contain blank lines.
 - The body must use the imperative mood.  See [imperative mood](#imperative-mood).
 - The body lines must wrap at 72 characters.
-- The body can contain blank lines.
 - The body can contain bullet points that start with `-` or `*`.
-
-## Separate the Body and Footer
-
-Separate the body and footer with a blank line.
 
 ## Footer
 
 The commit message can have an optional footer.
 
-The footer comes after the body.
+The footer is for referring to issue IDs.
 
-The footer is for referring to issue IDs for example:
-- Resolves: `<issue-id>`
-- See also: `<issue-id>`, `<issue-id>`
+- The footer can be multiple lines.
+- The footer can not contain blank lines.
+- Footer lines must start with `Resolves:` or `See also:`
+- Footer lines must have one or more issue IDs following each `Resolves:` or `See also:`
+
+Footer line examples:
+`Resolves: <issue-id>`
+`See also: <issue-id>, <issue-id>`
 
 ## Category Abbreviation
 
