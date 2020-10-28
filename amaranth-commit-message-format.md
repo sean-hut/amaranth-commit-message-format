@@ -7,6 +7,7 @@ A commit message must have a summary line.
 The summary line is the first line of the commit message.
 
 - The summary is one line.
+- The summary line can not be only a [category abbreviation](#category-abbreviation).
 - The summary must not be more than 50 characters.
 - The summary must not end with a period.
 - The summary must start with one of the [category abbreviation](#category-abbreviation) for example **`B`**.
