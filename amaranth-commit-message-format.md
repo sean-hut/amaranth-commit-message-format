@@ -1,5 +1,11 @@
 # Amaranth Commit Message Format
 
+## ASCII
+
+The characters in the commit message must be [ASCII characters][ascii].
+
+[ascii]: <https://en.wikipedia.org/wiki/ASCII#Character_set>
+
 ## Summary Line
 
 A commit message must have a summary line.
