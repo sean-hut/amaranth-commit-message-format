@@ -1,10 +1,11 @@
 # Amaranth Commit Message Format
 
-## Summary
+## Summary Line
+
+A commit message must have a summary line.
 
 The summary line is the first line of the commit message.
 
-- A commit message must have a summary line.
 - The summary must not be more than 50 characters.
 - The summary must not end with a period.
 - The summary must start with one of the [category abbreviation](#category-abbreviation) for example **`B`**.
