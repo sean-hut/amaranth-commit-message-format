@@ -33,8 +33,9 @@ The commit message can have an optional footer.
 The footer is for referring to issue IDs.
 
 
-- Resolves: `<issue-id>`
-- See also: `<issue-id>`, `<issue-id>`
+Footer line examples:
+`Resolves: <issue-id>`
+`See also: <issue-id>, <issue-id>`
 
 ## Category Abbreviation
 
