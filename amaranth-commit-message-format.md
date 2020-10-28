@@ -16,6 +16,8 @@ The summary line is the first line of the commit message.
 
 ## Body
 
+The commit message can have an optional body.
+
 The body explains what changed and the rational for why it changed.
 
 - The body must use the imperative mood.  See [imperative mood](#imperative-mood).
