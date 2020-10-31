@@ -82,7 +82,9 @@ The footer is for referring to issue IDs.
 - Footer lines must have one or more issue IDs following each `Resolves:` or `See also:`
 
 Footer line examples:
+
 `Resolves: <issue-id>`
+
 `See also: <issue-id>, <issue-id>`
 
 ## Category Abbreviation
