@@ -6,23 +6,35 @@ These are the valid commit message structures:
 
 - Summary Line
     1. Summary line
+    2. One blank line
+    3. Sign off line
+    4. One blank line
 
 - Summary Line and Body
     1. Summary line
-    1. One blank line
-    1. Body
+    2. One blank line
+    3. Body
+    4. One blank line
+    5. Sign off line
+    6. One blank line
 
 - Summary Line and Footer
     1. Summary line
-    1. One blank line
-    1. Footer
+    2. One blank line
+    3. Footer
+    4. One blank line
+    5. Sign off line
+    6. One blank line
 
 - Summary Line, Body and Footer
     1. Summary line
-    1. One blank line
-    1. Body
-    1. One blank line
-    1. Footer
+    2. One blank line
+    3. Body
+    4. One blank line
+    5. Footer
+    6. One blank line
+    7. Sign off line
+    8. One blank line
 
 ## ASCII
 
