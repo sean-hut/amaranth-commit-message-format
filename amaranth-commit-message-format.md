@@ -87,6 +87,17 @@ Footer line examples:
 
 `See also: <issue-id>, <issue-id>`
 
+## Sign Off Line
+
+The commit message must have a sign off line.
+
+The sign off line is created by `git` when you use `git commit`'s
+`--signoff` option.
+
+Here is an example of a sign off line:
+
+`Signed-off-by: <NAME> <EMAIL>`
+
 ## Category Abbreviation
 
 These category abbreviation are sorted alphabetically.
