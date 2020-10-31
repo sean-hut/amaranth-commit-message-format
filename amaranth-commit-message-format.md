@@ -6,23 +6,35 @@ These are the valid commit message structures:
 
 - Summary Line
     1. Summary line
+    2. One blank line
+    3. Sign off line
+    4. One blank line
 
 - Summary Line and Body
     1. Summary line
-    1. One blank line
-    1. Body
+    2. One blank line
+    3. Body
+    4. One blank line
+    5. Sign off line
+    6. One blank line
 
 - Summary Line and Footer
     1. Summary line
-    1. One blank line
-    1. Footer
+    2. One blank line
+    3. Footer
+    4. One blank line
+    5. Sign off line
+    6. One blank line
 
 - Summary Line, Body and Footer
     1. Summary line
-    1. One blank line
-    1. Body
-    1. One blank line
-    1. Footer
+    2. One blank line
+    3. Body
+    4. One blank line
+    5. Footer
+    6. One blank line
+    7. Sign off line
+    8. One blank line
 
 ## ASCII
 
@@ -34,8 +46,9 @@ The characters in the commit message must be [ASCII characters][ascii].
 
 A commit message must have a summary line.
 
-The summary line is the first line of the commit message.
+The summary line summarizes the commit.
 
+- The summary line is the first line of the commit message.
 - The summary is one line.
 - The summary line can not be only a [category abbreviation](#category-abbreviation).
 - The summary must not be more than 50 characters.
@@ -55,6 +68,7 @@ The body explains what changed and the rational for why it changed.
 - The body must use the imperative mood.  See [imperative mood](#imperative-mood).
 - The body lines must wrap at 72 characters.
 - The body can contain bullet points that start with `-` or `*`.
+- The body must not contain footer lines.
 
 ## Footer
 
@@ -68,8 +82,21 @@ The footer is for referring to issue IDs.
 - Footer lines must have one or more issue IDs following each `Resolves:` or `See also:`
 
 Footer line examples:
+
 `Resolves: <issue-id>`
+
 `See also: <issue-id>, <issue-id>`
+
+## Sign Off Line
+
+The commit message must have a sign off line.
+
+The sign off line is created by `git` when you use `git commit`'s
+`--signoff` option.
+
+Here is an example of a sign off line:
+
+`Signed-off-by: <NAME> <EMAIL>`
 
 ## Category Abbreviation
 
