@@ -4,13 +4,13 @@
 
 These are the valid commit message structures:
 
-- Summary Line
+- Summary Line and Sign Off Line
     1. Summary line
     2. One blank line
     3. Sign off line
     4. One blank line
 
-- Summary Line and Body
+- Summary Line, Body and Sign Off Line
     1. Summary line
     2. One blank line
     3. Body
@@ -18,7 +18,7 @@ These are the valid commit message structures:
     5. Sign off line
     6. One blank line
 
-- Summary Line and Footer
+- Summary Line, Footer and Sign Off Line
     1. Summary line
     2. One blank line
     3. Footer
@@ -26,7 +26,7 @@ These are the valid commit message structures:
     5. Sign off line
     6. One blank line
 
-- Summary Line, Body and Footer
+- Summary Line, Body, Footer and Sign Off Line
     1. Summary line
     2. One blank line
     3. Body
