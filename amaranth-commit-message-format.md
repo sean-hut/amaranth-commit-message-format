@@ -46,8 +46,9 @@ The characters in the commit message must be [ASCII characters][ascii].
 
 A commit message must have a summary line.
 
-The summary line is the first line of the commit message.
+The summary line summarizes the commit.
 
+- The summary line is the first line of the commit message.
 - The summary is one line.
 - The summary line can not be only a [category abbreviation](#category-abbreviation).
 - The summary must not be more than 50 characters.
