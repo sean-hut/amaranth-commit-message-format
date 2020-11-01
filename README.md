@@ -36,11 +36,6 @@ Links for more information on the license:
 
 The changelog file is: CHANGELOG.md
 
-## Semantic Versioning
-
-The [SemVar][semvar] version of semantic versioning is used.
-
-[semvar]: <https://web.archive.org/web/20201009135328/https://semver.org/>
 All notable changes to this project are documented in the changelog file.
 
 ## Versions
@@ -53,8 +48,14 @@ The development version is at the head of the `develop` branch.
 
 Stable releases are tagged on the `releases` branch.
 
+The [SemVar][semvar] version of semantic versioning is used.
+
+[semvar]: <https://web.archive.org/web/20201009135328/https://semver.org/>
+
 ## Contributing
 
 Contributions are welcome and appreciated.
 
-See the contributing rules in `CONTRIBUTING.md`.
+These are the [contributing rules][rules].
+
+[rules]: <https://github.com/sean-hut/amaranth-commit-message-format/tree/develop/CONTRIBUTING/CONTRIBUTING.md>
