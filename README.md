@@ -11,10 +11,24 @@ You can see the Amaranth commit message format in the file:
 ## Git `commit-msg` Hook
 
 You and your collaborators can use this [Git `commit-msg`
-hook][git-hook] to checks if commit messages are following the
+hook][git-hook] to checks if commit messages follow the
 Amaranth commit message format rules.
 
 [git-hook]: <https://github.com/sean-hut/amaranth-commit-msg-hook>
+
+## Example Use
+
+These projects use the Amaranth commit message format.
+
+- [Contributing Rules][contributing]
+- [Eping][eping]
+- [Amaranth Commit Message Format][amaranth]
+- [Amaranth Commit Message Git Hook][amaranth-hook]
+
+[contributing]: <https://github.com/sean-hut/contributing-rules>
+[eping]: <https://github.com/sean-hut/eping>
+[amaranth]: <https://github.com/sean-hut/amaranth-commit-message-format>
+[amaranth-hook]: <https://github.com/sean-hut/amaranth-commit-msg-hook>
 
 ## License
 
@@ -36,15 +50,7 @@ Links for more information on the license:
 
 The changelog file is: CHANGELOG.md
 
-The [keep a changelog][changelog] format is used for the changelog.
-
-[changelog]: <https://web.archive.org/web/20201004165239/https://keepachangelog.com/en/1.0.0/>
-
-## Semantic Versioning
-
-The [SemVar][semvar] version of semantic versioning is used.
-
-[semvar]: <https://web.archive.org/web/20201009135328/https://semver.org/>
+All notable changes to this project are documented in the changelog file.
 
 ## Versions
 
@@ -56,8 +62,14 @@ The development version is at the head of the `develop` branch.
 
 Stable releases are tagged on the `releases` branch.
 
+The [SemVar][semvar] version of semantic versioning is used.
+
+[semvar]: <https://web.archive.org/web/20201009135328/https://semver.org/>
+
 ## Contributing
 
 Contributions are welcome and appreciated.
 
-See the contributing rules in `CONTRIBUTING.md`.
+These are the [contributing rules][rules].
+
+[rules]: <https://github.com/sean-hut/amaranth-commit-message-format/tree/develop/CONTRIBUTING/CONTRIBUTING.md>

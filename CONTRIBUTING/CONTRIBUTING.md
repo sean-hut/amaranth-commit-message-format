@@ -9,6 +9,7 @@ These are the contributing rules.
 - [Contributor Agreement][agreement]
 - [Git Configuration][git-config-gpg-signoff]
 - [Git `pre-commit` Hook][pre-commit]
+- [Amaranth Git `commit-msg` Hook][commit-msg]
 
 ## Preparation for Commits
 
@@ -27,6 +28,7 @@ These are the contributing rules.
 [agreement]: <https://github.com/sean-hut/contributing-rules/blob/develop/rules/contributing-prerequisites/contributor-agreement.md>
 [git-config-gpg-signoff]: <https://github.com/sean-hut/contributing-rules/blob/develop/rules/contributing-prerequisites/git-configuration/git-configuration-gpg-signoff.md>
 [pre-commit]: <https://github.com/sean-hut/contributing-rules/blob/develop/rules/contributing-prerequisites/git-hook/pre-commit.md>
+[commit-msg]: <https://github.com/sean-hut/contributing-rules/blob/develop/rules/contributing-prerequisites/git-hook/commit-msg.md>
 
 [git-flow]: <https://github.com/sean-hut/contributing-rules/blob/develop/rules/preparation-for-commits/git-flow-branching.md>
 [fetch-merge]: <https://github.com/sean-hut/contributing-rules/blob/develop/rules/preparation-for-commits/fetch-and-merge-before-committing.md>
