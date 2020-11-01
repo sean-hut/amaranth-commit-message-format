@@ -36,15 +36,12 @@ Links for more information on the license:
 
 The changelog file is: CHANGELOG.md
 
-The [keep a changelog][changelog] format is used for the changelog.
-
-[changelog]: <https://web.archive.org/web/20201004165239/https://keepachangelog.com/en/1.0.0/>
-
 ## Semantic Versioning
 
 The [SemVar][semvar] version of semantic versioning is used.
 
 [semvar]: <https://web.archive.org/web/20201009135328/https://semver.org/>
+All notable changes to this project are documented in the changelog file.
 
 ## Versions
 
