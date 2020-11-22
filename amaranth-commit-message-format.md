@@ -154,6 +154,10 @@ These category abbreviation are sorted alphabetically.
     Changes to developer dependencies.  Developer dependencies are
     programs developers need to have installed.
 
+- **FA** (Functionality Addition)
+
+    Add functionality that does not change the API.
+
 - **IV** (Increment Version)
 
     Increment a version number.
