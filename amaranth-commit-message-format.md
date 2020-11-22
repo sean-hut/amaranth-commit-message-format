@@ -158,6 +158,10 @@ These category abbreviation are sorted alphabetically.
 
     Add functionality that does not change the API.
 
+- **FR** (Functionality Removal)
+
+    Remove functionality that does not change the API.
+
 - **IV** (Increment Version)
 
     Increment a version number.
