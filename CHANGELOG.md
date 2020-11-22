@@ -23,6 +23,8 @@ This project uses the [ISO 8601 date format][iso] of (YYYY-MM-DD).
 
 ## [Unreleased]
 
+## [0.2.0] - 2020-11-22
+
 ### Added
 
 - Category abbreviation for functionality addition
